@@ -1,3 +1,3 @@
 # whitepaper
-The Open Insurance Initiative
+The Open Insurance Initiative </br>
 https://openinsuranceinitiative.org/
