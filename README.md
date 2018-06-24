@@ -2,6 +2,7 @@
 The Open Insurance Initiative </br>
 https://openinsuranceinitiative.org/
 </br>
+</br>
 <span>Foreword</span>
 </br>
 <p>This paper takes a high level overview of the fundamental elements involved in incumbent insurers providing open access to their APIs allowing their customers to freely share with third parties their insurance policy information and much of the data collected on them by their insurers.</p>
