@@ -1,4 +1,4 @@
-# The Open Insurance (OPIN) Whitepaper, authored by Fouad Husseini.
+# The Open Insurance (OPIN) whitepaper, authored by Fouad Husseini.
 The Open Insurance Initiative </br>
 https://openinsuranceinitiative.org/
 </br>
