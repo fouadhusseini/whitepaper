@@ -596,11 +596,11 @@ to  play  in  improving  financial  literacy
 
 
 
-About the author
-Fouad Husseini, ACII, BEng.
-Senior insurance executive.
-Author of the ‘The Insurance Field Book’, ISBN: 978-1389362477.
-https://www.linkedin.com/in/fouad-husseini-acii-beng-ba22a08/
+<span>About the author</span>
+<span>Fouad Husseini, ACII, BEng.</span>
+<span>Senior insurance executive.</span>
+<span>Author of the ‘The Insurance Field Book’, ISBN: 978-1389362477.</span>
+<span>https://www.linkedin.com/in/fouad-husseini-acii-beng-ba22a08/</span>
 
 
 The Open Insurance Initiative (OPIN)
