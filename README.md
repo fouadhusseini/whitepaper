@@ -596,16 +596,16 @@ to  play  in  improving  financial  literacy
 
 
 
-<span>About the author</span>
-<span>Fouad Husseini, ACII, BEng.</span>
-<span>Senior insurance executive.</span>
-<span>Author of the ‘The Insurance Field Book’, ISBN: 978-1389362477.</span>
-<span>https://www.linkedin.com/in/fouad-husseini-acii-beng-ba22a08/</span>
+<span>About the author</span></br>
+<span>Fouad Husseini, ACII, BEng.</span></br>
+<span>Senior insurance executive.</span></br>
+<span>Author of the ‘The Insurance Field Book’, ISBN: 978-1389362477.</span></br>
+<span>https://www.linkedin.com/in/fouad-husseini-acii-beng-ba22a08/</span></br>
 
 
-The Open Insurance Initiative (OPIN)
-https://openinsurance.io
-https://www.linkedin.com/company/the-open-insurance-initiative-opin/
-https://github.com/OpenInsurance/whitepaper/blob/master/README.md 
-Copyright © 2018. The Open Insurance Initiative. All rights reserved.
+<span>The Open Insurance Initiative (OPIN)</span></br>
+<span>https://openinsurance.io</span></br>
+<span>https://www.linkedin.com/company/the-open-insurance-initiative-opin/</span></br>
+<span>https://github.com/OpenInsurance/whitepaper/blob/master/README.md </span></br>
+<span>Copyright © 2018. The Open Insurance Initiative. All rights reserved.</span>
 </p>
