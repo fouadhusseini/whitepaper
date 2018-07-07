@@ -48,7 +48,7 @@ Another example is ACORD (The Association for Cooperative Operations Research an
 
 
 
-2. The potential benefits and opportunities resulting from enabling real time access to customers data
+<strong>2. The potential benefits and opportunities resulting from enabling real time access to customers data</strong>
 
 We will now examine key areas which highlight the tremendous potential of encouraging technology led innovators. 
 
@@ -107,7 +107,7 @@ Customers becoming better informed, means insurers will be forced to explain how
 
 
  
-3. Standards and approaches powering API implementation
+<strong>3. Standards and approaches powering API implementation</strong>
 
 An API (Application Programming Interface) is a set of requirements that govern how one application can communicate and interact with another automatically.
 APIs can be divided into two main uses: 
@@ -201,7 +201,7 @@ At the heart of the API description format is the Swagger specification, which w
 The specification, has picked up tremendous traction in API development, and is seeing adoption by thousands of API developers and consumers.
 
  
-4. Shared data: Access and usage
+<strong>4. Shared data: Access and usage</strong>
  
 Different regions of the world have different standards and inclinations towards sharing of data, for instance, in the Middle East, compiling insurance statistics from published research is very difficult and, in some cases virtually impossible, publicly available data is almost non-existent. 
 There are however instances where insurers have willingly and voluntarily published data. Zurich International Life , claims that it is “the only life insurer in the Middle East to publish yearly claims statistics”. 
@@ -386,7 +386,7 @@ Privacy of individuals can be affected where identity can be inferred from data.
 Most laws, regulations, and internationally recognized guidelines provide frameworks for privacy and data protection but most were not created with open data in mind. Moreover, finer granularity and the inclusion of microdata could cause a lot of concern in that this data, could through various techniques, de-anonymize its owners revealing what could be highly sensitive personal information.
 It is probably more pragmatic for the purpose of the Open Insurance Initiative to only support the release of fully anonymized and aggregated data leaving out microdata types that could introduce a lot of complexity and concerns.	
  
-5. Concerns potentially obstructing the adoption of the OPIN initiative 
+<strong>5. Concerns potentially obstructing the adoption of the OPIN initiative</strong> 
 
 A number of core challenges affecting the implementation of the Open Insurance Initiative are explored.
 
@@ -411,7 +411,7 @@ If this initiative fails to become widely adopted by the insurance industry, it 
 
 
  
-6. What technologies will startups be able to power with the data? 
+<strong>6. What technologies will startups be able to power with the data?</strong> 
  
 By adopting open APIs, insurers can more readily experiment, collaborate and leverage innovative solutions and business models that InsurTechs’ have or are developing. 
 There is obviously a lot that goes beyond the perfunctory aggregators and price comparison sites to a world of startups perfecting data analytics, machine learning, visual recognition and natural language processing. 
@@ -505,7 +505,7 @@ What follows next are graphical representations of the aforementioned use cases.
 
  
  
-7. Recommended approach to implementing the OPIN initiative
+<strong>7. Recommended approach to implementing the OPIN initiative</strong>
 
 This paper has set out the reasoning behind creating an open insurance standard as well as an overview of the key aspects of implementation.
 Incumbents through sharing data will be prompted to develop better ways of engaging with customers, develop new commercial models and allow the economic and societal benefits of wider access to data to emerge.
