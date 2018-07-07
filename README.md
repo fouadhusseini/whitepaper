@@ -1,6 +1,6 @@
 # Open Insurance (OPIN) 
 The Open Insurance whitepaper, authored by Fouad Husseini. </br>
-https://openinsuranceinitiative.org/
+https://openinsurance.io
 </br>
 </br>
 <p>This paper takes a high-level overview of the fundamental elements involved in incumbent insurers providing open access to their APIs allowing their customers to freely share with third parties their insurance policy information and much of the data collected on them by their insurers.
@@ -9,7 +9,7 @@ The recommendations herein are business-line agnostic, therefore the paper encom
 OPIN will become a community led initiative that could potentially be the largest insurance API project of its kind to date.
 The main purpose of the paper is to promote the concept of open APIs in insurance paving the path for future in depth studies. It is hoped that it serves as the catalyst for further research towards determining the necessary uniform interfaces, processes, implementation plans and time frames.
 </p>
-<p>1. Introduction
+<p><strong>1. Introduction</strong>
 
 The digital evolution of insurance has seen greater investments  into startups looking to develop applications that extend insurance offerings and allow deeper links with the customer. This evolution has equally presented opportunities to incumbent insurers through deploying larger research and development budgets or by direct investment in startups.
 Enabling greater access for InsurTech startups and software developers targeting insurance related activities may accelerate adoption of technologies such as blockchain powered smart contracts, prediction markets, internet of things (IoT), chatbots and robo-advisors and a huge array of other technologies.
