@@ -597,7 +597,7 @@ to  play  in  improving  financial  literacy
 
 
 <span>About the author</span></br>
-<span>Fouad Husseini, ACII, BEng.</span></br>
+<span>Fouad Husseini, FCII, BEng.</span></br>
 <span>Author of the ‘The Insurance Field Book’, ISBN: 978-1389362477.</span></br>
 <span>https://www.linkedin.com/in/fouad-husseini-acii-beng-ba22a08/</span></br>
 
